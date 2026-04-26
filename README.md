@@ -41,7 +41,10 @@ Stay updated with the latest tutorials and projects by connecting with me on Lin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samarthboraganve&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
----
+![Zerodha Clone](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Zerodha-Clone-MERN-Stack-&theme=midnight-purple)
+![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Portfolio&theme=midnight-purple)
+
+
 
 
 
