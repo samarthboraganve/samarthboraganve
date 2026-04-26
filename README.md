@@ -29,7 +29,9 @@ Stay updated with the latest tutorials and projects by connecting with me on Lin
 
 
   ### ✍️ Random Dev Quote
+  
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+  
 
 
 <!-- Snake Game Repo View -->
@@ -41,8 +43,20 @@ Stay updated with the latest tutorials and projects by connecting with me on Lin
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samarthboraganve&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
 
+<div align="center">
+
 ![Zerodha Clone](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Zerodha-Clone-MERN-Stack-&theme=midnight-purple)
+![Wonderlust](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Wonderlust---MERN-Stack-Based-Web-Application-&theme=midnight-purple)
+![Library Management System](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Library-Management-System&theme=midnight-purple)
 ![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Portfolio&theme=midnight-purple)
+![Weather App](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Weather-App&theme=midnight-purple)
+![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Spotify-Clone&theme=midnight-purple)
+![Simon Say Game](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Simon-Say-Game&theme=midnight-purple)
+
+
+</div>
+
+
 
 
 
@@ -50,4 +64,18 @@ Stay updated with the latest tutorials and projects by connecting with me on Lin
 
 
 [![](https://komarev.com/ghpvc/?username=samarthboraganve&icon=0&color=13)](https://visitcount.itsvg.in)
+
+
+<!-- Footer Wave -->
+
+<div align=center>
+⚡ I Love Tech and Tech Loves Me! 💜
+
+🌟 Thanks for visiting! Let's connect and build something amazing together!
+⭐️ From [samarthboraganve](https://github.com/samarthboraganve) with 💜
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=We%20Meet%20You%20Again!&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+
+</div>
+
 
