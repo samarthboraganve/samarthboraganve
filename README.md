@@ -53,7 +53,7 @@ Stay updated with the latest tutorials and projects by connecting with me on Lin
 ![Spotify Clone](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Spotify-Clone&theme=midnight-purple)
 ![Simon Say Game](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=Simon-Say-Game&theme=midnight-purple)
 ![FarmXchain](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=FarmXchain&theme=midnight-purple)
-[![MeetWise](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=MeetWise&theme=midnight-purple)](https://github.com/samarthboraganve/MeetWise---AI-Based-Smart-Meeting-Analyzer)
+[![MeetWise](https://github-readme-stats.vercel.app/api/pin/?username=samarthboraganve&repo=MeetWise&theme=midnight-purple)]
 
 
 
